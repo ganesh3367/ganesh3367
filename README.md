@@ -1,7 +1,5 @@
 
 
-Here’s a customized README.md file for your GitHub profile, reflecting your interests, goals, and personality. Feel free to tweak it! 😊
-
 👋 Hello, World! I'm Ganesh
 🌟 First-year engineering student at Newton School of Technology (AI & ML branch).
 🎯 Aim for global opportunities after graduation.
