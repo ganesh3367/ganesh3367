@@ -9,6 +9,5 @@
 🌐 Passionate about Artificial Intelligence and Machine Learning.
 💻 Currently working on improving my logic-building skills and mastering Data Structures and Algorithms in Python.
 📚 Exploring math for competitive programming and AI,
-✈️ Dreaming of studying abroad and ticking off my bucket list adventures
-thanks
+✈️ Dreaming of studying abroad and ticking off my bucket list adventures.
 
