@@ -2,7 +2,7 @@
 
 🚀 **Innovator | Code Crafter | Tech Explorer**  
 
-> *"Building today what others imagine for tomorrow."*  
+> *"Building today what others imagine for tomorrow."* 
 
 --- 
 
