@@ -1,6 +1,6 @@
 # 👋 **Welcome to My GitHub - *@ganesh3367***  
 
-🚀 **Innovator | Code Crafter | Tech Explorer**  
+🚀 **Innovator | Code Crafter | Tech Explorer**   
 
 > *"Building today what others imagine for tomorrow."* 
 
