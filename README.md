@@ -1,70 +1,15 @@
-# 👋 **Welcome to My GitHub - *@ganesh3367***  
-
-🚀 **Innovator | Code Crafter | Tech Explorer**   
-
-> *"Building today what others imagine for tomorrow."* 
-
---- 
+# 💫 About Me:
+🔧 About Me<br><br>Current Status: First-year engineering student at Newton School of Technology, Pune, specializing in AI and ML.<br><br>Learning Goals: Enhancing my skills in Data Structures and Algorithms (DSA), particularly in mastering concepts like prefix sum and two-pointer algorithms.<br><br>Future Aspirations:<br><br>Secure a placement  in MNC.<br><br>Study abroad for free after graduation.
 
 
-
-
-  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ganesh3367&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganesh3367&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh3367&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🛠️ **Tech Arsenal**  
+[![](https://visitcount.itsvg.in/api?id=ganesh3367&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🏆 **Trophies & Achievements**  
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=ganesh3367&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)  
-
----
-
-## 📊 **GitHub Performance**  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh3367&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh3367&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>  
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh3367&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
-</div>
-
----
-
-## 🌐 **Activity Highlights**  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh3367&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/ganesh3367/github-readme-activity-graph)  
-
----
-
-## 📈 **Insights & Analytics**  
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganesh3367&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganesh3367&theme=aura" alt="Most Commit Language" width="45%"/>
-</div>  
-  
----
-
-🎯 *Let’s collaborate, innovate, and build projects that make a difference! Code is not just a skill—it’s the art of solving problems.* 🚀
-v
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
