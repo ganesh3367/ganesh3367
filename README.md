@@ -1,4 +1,4 @@
-    # 💫 About Me:
+     # 💫 About Me:
 🔧 About Me<br><br>Current Status: First-year engineering student at Newton School of Technology, Pune, specializing in AI and ML.<br><br>Learning Goals: Enhancing my skills in Data Structures and Algorithms (DSA), particularly in mastering concepts like prefix sum and two-pointer algorithms.<br><br>Future Aspirations:<br><br>Secure a placement  in MNC.<br><br>Study at Australia for after graduation.
  
   
